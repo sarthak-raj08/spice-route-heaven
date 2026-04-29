@@ -126,10 +126,8 @@ spice-route-heaven/
 
 Add project screenshots here:
 
-```md
-![Dashboard](spice_route_heaven.png)
-![Booking](reserve_table.png)
-```
+![Dashboard](spice-route-heaven.png)
+![Booking](booking-table.png)
 
 ---
 
