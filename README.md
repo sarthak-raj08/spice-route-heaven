@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-    src="YOUR_IMAGE_URL_HERE" 
-    alt="Spice Route Heaven Logo" 
+    src="Spice_Route_Haven.jpeg" 
+    alt="Spice Route Haven Logo" 
     width="300" 
     style="border-radius: 50%; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);"
   />
