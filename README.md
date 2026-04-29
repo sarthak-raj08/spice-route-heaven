@@ -127,9 +127,8 @@ spice-route-heaven/
 Add project screenshots here:
 
 ```md
-![Homepage](./screenshots/homepage.png)
-![Dashboard](./screenshots/dashboard.png)
-![Admin Panel](./screenshots/admin.png)
+![Dashboard](spice_route_heaven.png)
+![Booking](reserve_table.png)
 ```
 
 ---
