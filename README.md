@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="Spice_Route_Haven.jpeg" alt="Spice Route Haven Logo" width="180" style="border-radius: 50%;"/>
+  <img 
+    src="Spice_Route_Haven.jpeg" 
+    alt="Spice Route Haven Logo" 
+    width="200" 
+    height="200"
+    style="border-radius: 50%; object-fit: cover;"
+  />
 </div>
 
 <div align="center">
