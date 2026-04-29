@@ -2,16 +2,16 @@
   <img 
     src="Spice_Route_Haven.jpeg" 
     alt="Spice Route Haven Logo" 
-    width="300" 
-    style="border-radius: 50%; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);"
+    width="200" 
+    height="200"
+    style="border-radius: 50%; object-fit: cover;"
   />
-  <h1>Spice Route Heaven</h1>
-  <p><i>A Beachside Culinary Journey</i></p>
 </div>
 
 <div align="center">
 
 # 🍽️ SPICE ROUTE HAVEN 🍽️
+
 
 ✨ ***Experience the Perfect Blend of Taste and Tradition***🍷
 
