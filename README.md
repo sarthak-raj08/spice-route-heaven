@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### Full-Stack Restaurant Management System
-
 A modern restaurant platform with customer interaction, booking system, admin dashboard, and backend API integration.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/sarthak-raj08/spice-route-heaven?style=for-the-badge)
