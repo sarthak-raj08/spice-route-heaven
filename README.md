@@ -1,26 +1,33 @@
-# 🍽️ Spice Route Heaven
+<div align="left">
 
-<div align="center">
+![Logo](Spice_Route_Haven.jpeg)
 
-A modern restaurant platform with customer interaction, booking system, admin dashboard, and backend API integration.
+</div>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sarthak-raj08/spice-route-heaven?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/sarthak-raj08/spice-route-heaven?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/sarthak-raj08/spice-route-heaven?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/sarthak-raj08/spice-route-heaven?style=for-the-badge)
+<div align="centre">
+
+# 🍽️ SPICE ROUTE HAVEN 🍽️
+
+</div>
+
+----
+
+<div align="left">
+
+**Spice Route Haven** is a comprehensive restaurant management platform designed to bridge the gap between customers and restaurant operations. The website features an elegant, responsive interface where users can browse the menu, book tables for lunch or dinner using mobile number authentication, and manage their reservations in real-time. Behind the scenes, an intuitive admin dashboard allows restaurant staff to track bookings, manage availability, and oversee daily operations. Built with a secure backend API, the system ensures data persistence and a smooth user experience across all devices.
 
 </div>
 
 ---
 
-## 🔗 Porject link
-https://spice-route-heaven.vercel.app/
+## 🔗 Porject Link
+Live: https://spice-route-heaven.vercel.app/
 
 ---
 
 ## 📌 Overview
 
-**Spice Route Heaven** is a full-stack restaurant management and customer-interaction platform designed to deliver a seamless dining experience.
+**Spice Route Haven** is a full-stack restaurant management and customer-interaction platform designed to deliver a seamless dining experience.
 
 It includes:
 
